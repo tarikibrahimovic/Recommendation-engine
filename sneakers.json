@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Nike Air Max",
+        "count": 335,
+        "reward": 14
+    },
+    {
+        "name": "Adidas Ultraboost",
+        "count": 610,
+        "reward": 42
+    },
+    {
+        "name": "Puma Rider",
+        "count": 55,
+        "reward": 2
+    }
+]
